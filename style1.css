@@ -6,6 +6,34 @@
   height: 100%;
   width: 100%;
 }*/
-h2{
+body{
+  background-color:#d7ecd9;
+}
+h2,h5{
   text-align: center;
+}
+h2{
+  margin-top:25px;
+  margin-bottom:5px;
+  font-size: 30px;
+  text-decoration: underline;
+  color:#000033;
+}
+h5{
+  margin-bottom:27px;
+  font-size: 15px;
+  color:#000033;
+}
+p{
+  margin-left:155px;
+  margin-right:155px;
+  margin-top:17px;
+  margin-bottom:17px;
+  line-height:36px;
+  font-size:20px;
+}
+a{
+  margin-left: 155px;
+  margin-right:155px;
+  font-size: 18px;
 }
