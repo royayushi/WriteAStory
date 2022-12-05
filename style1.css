@@ -7,7 +7,7 @@
   width: 100%;
 }*/
 body{
-  background-color:#d7ecd9;
+  background-color:#db5856;
 }
 h2,h5{
   text-align: center;
@@ -25,6 +25,8 @@ h5{
   color:#000033;
 }
 p{
+  content:"";
+  position:relative;
   margin-left:155px;
   margin-right:155px;
   margin-top:17px;
@@ -36,4 +38,14 @@ a{
   margin-left: 155px;
   margin-right:155px;
   font-size: 18px;
+}
+#blood{
+  float: left;
+  width: 150px;
+  position: absolute;
+}
+#ship{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
 }
